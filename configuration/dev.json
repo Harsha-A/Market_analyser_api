@@ -1,0 +1,6 @@
+{
+    "options":{
+        "port": 1433,
+        "requestTimeout": 60000
+    }
+}
